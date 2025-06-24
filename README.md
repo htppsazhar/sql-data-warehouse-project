@@ -1,12 +1,12 @@
-# **Data Warehouse and Analytics Project**
+#**Data Warehouse and Analytics Project**
 
 
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
+##**🏗️ Data Architecture**
 
-🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
 
 ![image](https://github.com/user-attachments/assets/e17e104d-c9c2-4400-8718-0e7ba2b33b30)
@@ -18,7 +18,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 ---
 
-📖 Project Overview
+## **📖 Project Overview**
+
 This project involves:
 
 1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
@@ -26,7 +27,7 @@ This project involves:
 3. Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
    
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+###**🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:**
 
 - SQL Development  
 - Data Architect  
